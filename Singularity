@@ -3,7 +3,7 @@ From: registry.gitlab.com/fuzzing/directed-fuzzing/llvm-12:16.04
 
 %labels
     MAINTAINER Josh Bundt
-    DockerTagID 83c6ea281
+    DockerTagID 70554fa39
 
 %environment
     AFL_SKIP_CPUFREQ=1
