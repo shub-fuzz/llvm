@@ -6,7 +6,7 @@ Singularity Image for LLVM w/AFL++ (currently v12)
 - usage:
 
 ```
-singularity pull --name llvm.sif https://github.com/shub-fuzz/llvm/releases/download/0.0.1/shub-fuzz-llvm.1604.sif
+singularity pull --name llvm.sif https://github.com/shub-fuzz/llvm/releases/download/0.0.2/shub-fuzz-llvm.1604.sif
 
 singularity shell llvm.sif
 ```
